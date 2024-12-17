@@ -1,5 +1,4 @@
-
-![github](https://github.com/user-attachments/assets/a5b71350-80db-45e0-862b-1be2a37fdf85)
+![My name is Rexhep Hoxha](https://github.com/user-attachments/assets/1dde1a0f-d691-4582-949e-7509406cbb00)
 
 
 ## You Can Reach Me Here
