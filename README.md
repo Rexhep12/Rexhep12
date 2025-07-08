@@ -1,4 +1,4 @@
-![My Resume](https://raw.githubusercontent.com/username/repo-name/main/git-image.png)
+<img width="1024" height="1536" alt="Image" src="https://github.com/user-attachments/assets/2d786ef2-381c-47a8-a040-9544c040dba3" />
 
 
 
